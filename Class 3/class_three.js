@@ -6,7 +6,7 @@ console.log(a);
 
 let b = 20;
 // b=25; //reassign
-let b="muzammil";
+// let b="muzammil";
 console.log(b);
 
 const c = 30;
